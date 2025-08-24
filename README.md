@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-ashraf-mosaad" alt="omar-ashraf-mosaad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omar-Ashraf-Mosaad" alt="omar-ashraf-mosaad" /></a> </p>
 
 - 📫 How to reach me **omarashrafm2@gmail.com**
 
