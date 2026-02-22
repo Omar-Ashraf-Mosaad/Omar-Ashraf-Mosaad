@@ -19,7 +19,6 @@
 <a href="https://www.linkedin.com/in/omar-ashraf-765246241/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
 </a>
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' alt='Email' height='30'>](mailto:omarashrafm2@gmail.com)
 </p>
 
 ---
