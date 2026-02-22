@@ -5,6 +5,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;.NET+%7C+React+%7C+Django" />
   </a>
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' alt='Email' height='30'>](mailto:omarashrafm2@gmail.com)
 </p>
 
 ---
@@ -19,6 +20,7 @@
 <a href="https://www.linkedin.com/in/omar-ashraf-765246241/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
 </a>
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg' alt='Email' height='30'>](mailto:omarashrafm2@gmail.com)
 </p>
 
 ---
@@ -47,10 +49,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ashraf-Mosaad&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Omar-Ashraf-Mosaad&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Ashraf-Mosaad&layout=compact&theme=tokyonight" />
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Ashraf-Mosaad&show_icons=true&theme=react&count_private=true)
 
 <img src="https://streak-stats.demolab.com?user=Omar-Ashraf-Mosaad&theme=tokyonight" />
 
