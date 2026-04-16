@@ -50,5 +50,5 @@
 
 <img src = "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Ashraf-Mosaad)](https://github.com/anuraghazra/github-readme-stats)" />
 
-![Anurag's GitHub stats](https://github-readme-stats-gamma-ten-60.vercel.app/api?username=Omar-Ashraf-Mosaadk&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-gamma-ten-60.vercel.app/api?username=Omar-Ashraf-Mosaad&show_icons=true&theme=transparent)
 </p>
