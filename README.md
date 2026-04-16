@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 <p align="center">
 
-<img src = "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-Ashraf-Mosaad)](https://github.com/anuraghazra/github-readme-stats)" />
+![](https://github-readme-stats-gamma-ten-60.vercel.app/api/top-langs/?username=Omar-Ashraf-Mosaad&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://streak-stats.demolab.com?user=Omar-Ashraf-Mosaad&theme=tokyonight" />
 
